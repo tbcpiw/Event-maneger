@@ -1,2 +1,2 @@
-# event manegement
+# event management
 Your City Event Manegement Application
